@@ -1,1 +1,1 @@
-Aplicación de libreria API open library.
+Aplicación de libreria API open library en tiempo real.
